@@ -1,0 +1,6 @@
+class stu:
+  def init(self,name,age):
+    self.name = name
+    self.age = age
+  def study(self):
+    print("studying")
